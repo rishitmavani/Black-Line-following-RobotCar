@@ -1,5 +1,5 @@
 # RobotCarRacingCompetition
-This is a project work with the use of Raspberry pi, Camera, Lidar, Python and VNC viewer to run the RobotCar and do some task like Black line detection and follow it, Object Detection and so on. It was done under the guidance of Mr. Felix Beren (M.Sc.).
+This is a project work with the use of Raspberry pi, Camera, Lidar, Python and VNC viewer to run the RobotCar and do some task like follow black path, Object Detection and so on. It was done under the guidance of Mr. Felix Beren (M.Sc.).
 
 This is how a Robot Car looks like:
 
